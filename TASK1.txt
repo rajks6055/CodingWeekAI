@@ -1,0 +1,15 @@
+                                        TASK1
+1.INTRODUCTION
+For task1 we have to perform EDA on dataset report of student in campus.
+
+2.Dataset_overview
+the dataset consist of 649 entries and 33 column which include various feature.
+many of features have some missing values for which we have to fill with mean,median or mode.
+
+Level 1:for level one we have to identify some hidden feature for this we had used correlation matrix which tells us how each feature correlate with themselves after that we have used several graph to identify what unknown feature could be.
+
+Level 2:for level 2 we have to handle missing values in dataset for this we have used EDA technique to fill this.
+mean if data is symmetrical,median if data is symmetrical and mode when data contains string values considering majority to win.
+
+
+
